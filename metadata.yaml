@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37772'
     url: http://www.gutenberg.org/2009/agents/37772
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35583#Two-Years-Among-the-Savages-of-New-Guinea.With-Introductory-Notes-on-North-Queensland.
 gutenberg_issued: '2011-03-15'
 gutenberg_type: Text
 identifiers:
