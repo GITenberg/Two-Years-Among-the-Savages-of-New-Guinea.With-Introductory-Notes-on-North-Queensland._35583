@@ -1,0 +1,27 @@
+_repo: Two-Years-Among-the-Savages-of-New-Guinea.With-Introductory-Notes-on-North-Queensland._35583
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pitcairn, W. D.
+    gutenberg_agent_id: '37772'
+    url: http://www.gutenberg.org/2009/agents/37772
+description: ''
+gutenberg_issued: '2011-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35583'
+  lccn: '05012663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Guinea -- Description and travel'
+- !lcc 'DU'
+title: 'Two Years Among the Savages of New Guinea.
+
+  With Introductory Notes on North Queensland.'
+url: http://www.gutenberg.org/ebooks/35583
